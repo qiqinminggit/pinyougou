@@ -1,0 +1,8 @@
+tourism\network\dao\IRoleDao.class
+tourism\network\dao\IProductDao.class
+tourism\network\dao\IUserDao.class
+tourism\network\dao\IMemberDao.class
+tourism\network\dao\IPermissionDao.class
+tourism\network\dao\ISysLogDao.class
+tourism\network\dao\IOrdersDao.class
+tourism\network\dao\ITravellerDao.class

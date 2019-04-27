@@ -1,0 +1,8 @@
+tourism\network\SysLog.class
+tourism\network\Orders.class
+tourism\network\Member.class
+tourism\network\Traveller.class
+tourism\network\Product.class
+tourism\network\Role.class
+tourism\network\Permission.class
+tourism\network\UserInfo.class

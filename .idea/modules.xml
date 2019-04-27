@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tourism_network.iml" filepath="$PROJECT_DIR$/tourism_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourism_network_dao/tourism_network_dao.iml" filepath="$PROJECT_DIR$/tourism_network_dao/tourism_network_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourism_network_domian/tourism_network_domian.iml" filepath="$PROJECT_DIR$/tourism_network_domian/tourism_network_domian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourism_network_service/tourism_network_service.iml" filepath="$PROJECT_DIR$/tourism_network_service/tourism_network_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourism_network_utils/tourism_network_utils.iml" filepath="$PROJECT_DIR$/tourism_network_utils/tourism_network_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tourism_network_web/tourism_network_web.iml" filepath="$PROJECT_DIR$/tourism_network_web/tourism_network_web.iml" />
+    </modules>
+  </component>
+</project>
